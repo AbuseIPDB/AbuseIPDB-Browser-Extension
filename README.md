@@ -22,7 +22,7 @@ The extension uses **your own AbuseIPDB API key**. A free account is all you nee
 
 ### 2. Generate an API key
 
-1. Sign in and go to <https://www.abuseipdb.com/account/api>.
+1. Sign in and go to <https://www.abuseipdb.com/account/api/keys>.
 2. Click **Create Key**.
 3. Give the key a name (for example `browser-extension`) and confirm.
 4. Copy the key. Keep it private — it acts as your password for the API.
