@@ -77,4 +77,4 @@ delete it at <https://www.abuseipdb.com/account/api/keys>.
 
 ## Contact
 
-Questions about this policy: <bsebring@marathon-studios.com>
+Questions about this policy: <support@abuseipdb.com>

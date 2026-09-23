@@ -54,4 +54,4 @@ Full details: [PRIVACY.md](PRIVACY.md).
 
 ## Support
 
-Questions or problems: <bsebring@marathon-studios.com>
+Questions or problems: <support@abuseipdb.com>
